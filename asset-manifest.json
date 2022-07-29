@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/UnfoldCrypto/static/css/main.e4382cc0.chunk.css",
+    "main.js": "/UnfoldCrypto/static/js/main.0854702a.chunk.js",
+    "main.js.map": "/UnfoldCrypto/static/js/main.0854702a.chunk.js.map",
+    "runtime-main.js": "/UnfoldCrypto/static/js/runtime-main.6a45f971.js",
+    "runtime-main.js.map": "/UnfoldCrypto/static/js/runtime-main.6a45f971.js.map",
+    "static/css/2.4a7968ae.chunk.css": "/UnfoldCrypto/static/css/2.4a7968ae.chunk.css",
+    "static/js/2.a66296c0.chunk.js": "/UnfoldCrypto/static/js/2.a66296c0.chunk.js",
+    "static/js/2.a66296c0.chunk.js.map": "/UnfoldCrypto/static/js/2.a66296c0.chunk.js.map",
+    "index.html": "/UnfoldCrypto/index.html",
+    "static/css/2.4a7968ae.chunk.css.map": "/UnfoldCrypto/static/css/2.4a7968ae.chunk.css.map",
+    "static/css/main.e4382cc0.chunk.css.map": "/UnfoldCrypto/static/css/main.e4382cc0.chunk.css.map",
+    "static/js/2.a66296c0.chunk.js.LICENSE.txt": "/UnfoldCrypto/static/js/2.a66296c0.chunk.js.LICENSE.txt",
+    "static/media/cryptocurrency.1548aced.png": "/UnfoldCrypto/static/media/cryptocurrency.1548aced.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a45f971.js",
+    "static/css/2.4a7968ae.chunk.css",
+    "static/js/2.a66296c0.chunk.js",
+    "static/css/main.e4382cc0.chunk.css",
+    "static/js/main.0854702a.chunk.js"
+  ]
+}
